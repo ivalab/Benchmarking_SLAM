@@ -12,11 +12,11 @@ Note: Classification GUI can be replaced by some simple codes, but it is more ea
 ## Reference
 	
 	@article{ye2019characterizing,
-    title={Characterizing SLAM Benchmarks and Methods for the Robust Perception Age},
-    author={Ye, Wenkai and Zhao, Yipu and Vela, Patricio A},
-    journal={Workshop on Dataset Generation and Benchmarking of SLAM Algorithms for Robotics and VR/AR, IEEE Int. Conf. on Robotics and Automation (ICRA)},
-    year={2019}
-  }
+	    title={Characterizing SLAM Benchmarks and Methods for the Robust Perception Age},
+	    author={Ye, Wenkai and Zhao, Yipu and Vela, Patricio A},
+	    journal={Workshop on Dataset Generation and Benchmarking of SLAM Algorithms for Robotics and VR/AR, IEEE Int. Conf. on Robotics and Automation (ICRA)},
+	    year={2019}
+  	}
 
 ## Contact information
 
